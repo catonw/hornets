@@ -1,0 +1,4 @@
+C:\Users\ja\Desktop\Horntes\HornetsTraining\HornetsTraining\bin\Debug\HornetsTraining.dll
+C:\Users\ja\Desktop\Horntes\HornetsTraining\HornetsTraining\bin\Debug\HornetsTraining.pdb
+C:\Users\ja\Desktop\Horntes\HornetsTraining\HornetsTraining\obj\Debug\HornetsTraining.dll
+C:\Users\ja\Desktop\Horntes\HornetsTraining\HornetsTraining\obj\Debug\HornetsTraining.pdb

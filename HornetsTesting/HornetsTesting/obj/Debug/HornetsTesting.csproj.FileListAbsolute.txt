@@ -1,0 +1,5 @@
+C:\Users\ja\Desktop\Horntes\HornetsTesting\HornetsTesting\bin\Debug\HornetsTesting.dll
+C:\Users\ja\Desktop\Horntes\HornetsTesting\HornetsTesting\bin\Debug\HornetsTesting.pdb
+C:\Users\ja\Desktop\Horntes\HornetsTesting\HornetsTesting\obj\Debug\HornetsTesting.dll
+C:\Users\ja\Desktop\Horntes\HornetsTesting\HornetsTesting\obj\Debug\HornetsTesting.pdb
+C:\Users\ja\Desktop\Horntes\HornetsTesting\HornetsTesting\obj\Debug\HornetsTesting.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\ja\Desktop\Horntes\HornetsTesting\HornetsTesting2\bin\Debug\HornetsTesting2.dll
+C:\Users\ja\Desktop\Horntes\HornetsTesting\HornetsTesting2\bin\Debug\HornetsTesting2.pdb
+C:\Users\ja\Desktop\Horntes\HornetsTesting\HornetsTesting2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ja\Desktop\Horntes\HornetsTesting\HornetsTesting2\obj\Debug\HornetsTesting2.csprojResolveAssemblyReference.cache
+C:\Users\ja\Desktop\Horntes\HornetsTesting\HornetsTesting2\obj\Debug\HornetsTesting2.dll
+C:\Users\ja\Desktop\Horntes\HornetsTesting\HornetsTesting2\obj\Debug\HornetsTesting2.pdb
